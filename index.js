@@ -13,6 +13,20 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase())
 }
+/*
+function sayHiToGrandma(string) {
+   if (string === string.toLowerCase()) {
+    return "I can\'t hear you!"
+  }
+  if (string === string.toUpperCase()) {
+    return "YES INDEED!"
+  }
+  if (string ==="I love you, Grandma.") {
+    return "I love you, too."
+    } 
+}
+this did pass on my first learn submit. continue study show use of else if. My only question is my notes say that if else if must end with an else, which is not done here.
+*/
 
 function sayHiToGrandma(string) {
    if (string === string.toLowerCase()) {
