@@ -13,7 +13,7 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase())
 }
-/* deleted these lines of initial code 4/24/2018 as learned use of if and else if conditional statements. This deleted code did pass. Bootcamp labs and intro to functions used same lab.
+/* deleted these lines of initial code 4/24/2018 as learned use of if and else if conditional statements. This deleted code did pass. Bootcamp labs and intro to functions used same lab. -(RG)
 
 function sayHiToGrandma(string) {
    if (string === string.toLowerCase()) {
